@@ -23,12 +23,15 @@
     UIButton *botao = [UIButton
                                         buttonWithType:UIButtonTypeSystem];
     [botao
-     setTitle:@"Mostre uma palavra, uma figura e leia a palavra ao apertar um botao"
+     setTitle:@"Ampharos"
      forState:UIControlStateNormal];
     [botao sizeToFit];
     botao.center = self.view.center;
     
+    [botao addTarget:self action:@selector(printImage:) forControlEvents:UIControlEventAllTouchEvents];
+    
     [self.view addSubview:botao];
+    
     
  
 }
@@ -42,7 +45,13 @@
     
 }
 
-
+-(void)printImage:(id)sender{
+    UIImageView *imageHolder = [[UIImageView alloc] initWithFrame:CGRectMake(20, 100, 280, 192)];
+    UIImage *image = [UIImage imageNamed:@"Ampharos.png"];
+    imageHolder.image = image;
+    [self.view addSubview:imageHolder];
+    
+}
 
 
 @end
