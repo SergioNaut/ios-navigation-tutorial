@@ -8,7 +8,7 @@
 
 #import "LetraBViewController.h"
 #import "LetraCViewController.h"
-
+#import <AVFoundation/AVFoundation.h>
 @implementation LetraBViewController
 
 -(void) viewDidLoad {
@@ -25,6 +25,13 @@
      forState:UIControlStateNormal];
     [botao sizeToFit];
     botao.center = self.view.center;
+    [botao addTarget:self action:@selector(printImage:) forControlEvents:UIControlEventAllTouchEvents];
+    AVSpeechSynthesisVoice *falar = [AVSpeechSynthesisVoice voiceWithLanguage:@"pt-BR"];
+    AVSpeechUtterance *frase = [[AVSpeechUtterance alloc]initWithString:@"B de Blastóise"];
+    frase.rate = AVSpeechUtteranceMinimumSpeechRate;
+    AVSpeechSynthesizer *speechsynt = [[AVSpeechSynthesizer alloc]init];
+    [frase setVoice:falar];
+    [speechsynt speakUtterance:frase];
     
     [self.view addSubview:botao];
     
@@ -39,5 +46,14 @@
     
 }
 
+
+
+-(void)printImage:(id)sender{
+    UIImageView *imageHolder = [[UIImageView alloc] initWithFrame:CGRectMake(20, 100, 280, 192)];
+    UIImage *image = [UIImage imageNamed:@"Blastoise.png"];
+    imageHolder.image = image;
+    [self.view addSubview:imageHolder];
+    
+}
 
 @end

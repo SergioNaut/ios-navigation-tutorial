@@ -8,9 +8,8 @@
 
 #import "LetraAViewController.h"
 #import "LetraBViewController.h"
-
+#import <AVFoundation/AVFoundation.h>
 @implementation LetraAViewController
-
 
 
 -(void) viewDidLoad {
@@ -29,6 +28,17 @@
     botao.center = self.view.center;
     
     [botao addTarget:self action:@selector(printImage:) forControlEvents:UIControlEventAllTouchEvents];
+    
+    AVSpeechSynthesisVoice *falar = [AVSpeechSynthesisVoice voiceWithLanguage:@"pt-BR"];
+    AVSpeechUtterance *frase = [[AVSpeechUtterance alloc]initWithString:@"A de Anfaros"];
+    frase.rate = AVSpeechUtteranceMinimumSpeechRate;
+    AVSpeechSynthesizer *speechsynt = [[AVSpeechSynthesizer alloc]init];
+    [frase setVoice:falar];
+    [speechsynt speakUtterance:frase];
+    
+    
+    
+    
     
     [self.view addSubview:botao];
     

@@ -21,8 +21,12 @@
 		27156F7218B76AF50053A99C /* NavigationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 27156F7118B76AF50053A99C /* NavigationTests.m */; };
 		27156F7D18BA89430053A99C /* LetraAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27156F7C18BA89430053A99C /* LetraAViewController.m */; };
 		27156F8018BA8B210053A99C /* LetraBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27156F7F18BA8B210053A99C /* LetraBViewController.m */; };
+		7C9E2AC918BE7A5100B18B03 /* blastoise.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9E2AC818BE7A5100B18B03 /* blastoise.png */; };
+		7C9E2ACB18BE7B1600B18B03 /* clawitzer.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */; };
+		7C9E2ACE18BE7B8B00B18B03 /* LetraDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C9E2ACD18BE7B8B00B18B03 /* LetraDViewController.m */; };
+		7C9E2AD018BE7BE600B18B03 /* Dragonite.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */; };
+		7CA1E93718BE594E00139D10 /* Ampharos.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA1E93618BE594E00139D10 /* Ampharos.png */; };
 		7CA3A63418BD19A7001DD11F /* LetraCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA3A63318BD19A7001DD11F /* LetraCViewController.m */; };
-		7CA3A65918BD2D8F001DD11F /* Ampharos.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA3A65818BD2D8F001DD11F /* Ampharos.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,9 +60,14 @@
 		27156F7C18BA89430053A99C /* LetraAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraAViewController.m; sourceTree = "<group>"; };
 		27156F7E18BA8B210053A99C /* LetraBViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraBViewController.h; sourceTree = "<group>"; };
 		27156F7F18BA8B210053A99C /* LetraBViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraBViewController.m; sourceTree = "<group>"; };
+		7C9E2AC818BE7A5100B18B03 /* blastoise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blastoise.png; path = "Pokemons/A-G/blastoise.png"; sourceTree = "<group>"; };
+		7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clawitzer.png; path = "Pokemons/A-G/clawitzer.png"; sourceTree = "<group>"; };
+		7C9E2ACC18BE7B8B00B18B03 /* LetraDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraDViewController.h; sourceTree = "<group>"; };
+		7C9E2ACD18BE7B8B00B18B03 /* LetraDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraDViewController.m; sourceTree = "<group>"; };
+		7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Dragonite.png; path = "Pokemons/A-G/Dragonite.png"; sourceTree = "<group>"; };
+		7CA1E93618BE594E00139D10 /* Ampharos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ampharos.png; path = "Pokemons/A-G/Ampharos.png"; sourceTree = "<group>"; };
 		7CA3A63218BD19A7001DD11F /* LetraCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraCViewController.h; sourceTree = "<group>"; };
 		7CA3A63318BD19A7001DD11F /* LetraCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraCViewController.m; sourceTree = "<group>"; };
-		7CA3A65818BD2D8F001DD11F /* Ampharos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ampharos.png; path = ../../../Desktop/Imagens/Pokemons/Ampharos.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,11 +133,16 @@
 				27156F5318B76AF50053A99C /* Supporting Files */,
 				27156F7B18BA89430053A99C /* LetraAViewController.h */,
 				27156F7C18BA89430053A99C /* LetraAViewController.m */,
-				7CA3A65818BD2D8F001DD11F /* Ampharos.png */,
+				7CA1E93618BE594E00139D10 /* Ampharos.png */,
 				27156F7E18BA8B210053A99C /* LetraBViewController.h */,
 				27156F7F18BA8B210053A99C /* LetraBViewController.m */,
+				7C9E2AC818BE7A5100B18B03 /* blastoise.png */,
 				7CA3A63218BD19A7001DD11F /* LetraCViewController.h */,
+				7C9E2ACC18BE7B8B00B18B03 /* LetraDViewController.h */,
+				7C9E2ACD18BE7B8B00B18B03 /* LetraDViewController.m */,
+				7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */,
 				7CA3A63318BD19A7001DD11F /* LetraCViewController.m */,
+				7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -238,8 +252,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7CA3A65918BD2D8F001DD11F /* Ampharos.png in Resources */,
+				7CA1E93718BE594E00139D10 /* Ampharos.png in Resources */,
 				27156F5718B76AF50053A99C /* InfoPlist.strings in Resources */,
+				7C9E2ACB18BE7B1600B18B03 /* clawitzer.png in Resources */,
+				7C9E2AD018BE7BE600B18B03 /* Dragonite.png in Resources */,
+				7C9E2AC918BE7A5100B18B03 /* blastoise.png in Resources */,
 				27156F5F18B76AF50053A99C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,6 +280,7 @@
 				27156F7D18BA89430053A99C /* LetraAViewController.m in Sources */,
 				27156F8018BA8B210053A99C /* LetraBViewController.m in Sources */,
 				27156F5918B76AF50053A99C /* main.m in Sources */,
+				7C9E2ACE18BE7B8B00B18B03 /* LetraDViewController.m in Sources */,
 				7CA3A63418BD19A7001DD11F /* LetraCViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
