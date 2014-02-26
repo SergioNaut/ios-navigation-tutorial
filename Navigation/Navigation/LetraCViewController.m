@@ -8,6 +8,7 @@
 
 #import "LetraCViewController.h"
 #import "LetraDViewController.h"
+#import <AVFoundation/AVFoundation.h>
 @interface LetraCViewController ()
 
 @end
@@ -29,6 +30,14 @@
     [botao sizeToFit];
     botao.center = self.view.center;
     [botao addTarget:self action:@selector(printImage:) forControlEvents:UIControlEventAllTouchEvents];
+    AVSpeechSynthesisVoice *falar = [AVSpeechSynthesisVoice voiceWithLanguage:@"pt-BR"];
+    AVSpeechUtterance *frase = [[AVSpeechUtterance alloc]initWithString:@"C de Clawitzer"];
+    frase.rate = AVSpeechUtteranceMinimumSpeechRate;
+    AVSpeechSynthesizer *speechsynt = [[AVSpeechSynthesizer alloc]init];
+    [frase setVoice:falar];
+    [speechsynt speakUtterance:frase];
+    
+    
     [self.view addSubview:botao];
     
 }
