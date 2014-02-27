@@ -9,15 +9,19 @@
 #import "LetraAViewController.h"
 #import "LetraBViewController.h"
 #import <AVFoundation/AVFoundation.h>
+#import "LetraZViewController.h"
+
 @implementation LetraAViewController
 
 
 -(void) viewDidLoad {
     [super viewDidLoad];
     self.title = @"A";
+    
     UIBarButtonItem *next = [[UIBarButtonItem alloc]
                              initWithBarButtonSystemItem:UIBarButtonSystemItemFastForward target:self action:@selector(next:)];
     self.navigationItem.rightBarButtonItem=next;
+    
     
     UIButton *botao = [UIButton
                                         buttonWithType:UIButtonTypeSystem];
@@ -38,8 +42,6 @@
     
     
     
-    
-    
     [self.view addSubview:botao];
     
     
@@ -54,6 +56,7 @@
                                          animated:YES];
     
 }
+
 
 -(void)printImage:(id)sender{
     UIImageView *imageHolder = [[UIImageView alloc] initWithFrame:CGRectMake(20, 100, 280, 192)];

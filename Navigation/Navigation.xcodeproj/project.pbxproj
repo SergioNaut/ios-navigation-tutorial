@@ -29,6 +29,48 @@
 		7C9E2AD518BE80D000B18B03 /* espurr.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9E2AD418BE80D000B18B03 /* espurr.png */; };
 		7CA1E93718BE594E00139D10 /* Ampharos.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA1E93618BE594E00139D10 /* Ampharos.png */; };
 		7CA3A63418BD19A7001DD11F /* LetraCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA3A63318BD19A7001DD11F /* LetraCViewController.m */; };
+		7CA6BEEE18BFABB700D85347 /* LetraFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BEED18BFABB700D85347 /* LetraFViewController.m */; };
+		7CA6BEF018BFADA800D85347 /* froakie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BEEF18BFADA800D85347 /* froakie.jpg */; };
+		7CA6BEF318BFAE1F00D85347 /* LetraGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BEF218BFAE1F00D85347 /* LetraGViewController.m */; };
+		7CA6BEF618BFAEF800D85347 /* LetraHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BEF518BFAEF800D85347 /* LetraHViewController.m */; };
+		7CA6BEF818BFAF2D00D85347 /* gardevoir.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BEF718BFAF2D00D85347 /* gardevoir.png */; };
+		7CA6BEFB18BFB01400D85347 /* LetraIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BEFA18BFB01400D85347 /* LetraIViewController.m */; };
+		7CA6BEFD18BFB37E00D85347 /* heracross.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BEFC18BFB37E00D85347 /* heracross.png */; };
+		7CA6BEFF18BFB59400D85347 /* illumise.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BEFE18BFB59400D85347 /* illumise.png */; };
+		7CA6BF0218BFB5BB00D85347 /* LetraJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF0118BFB5BB00D85347 /* LetraJViewController.m */; };
+		7CA6BF0518BFB64C00D85347 /* LetraKViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF0418BFB64C00D85347 /* LetraKViewController.m */; };
+		7CA6BF0818BFB73500D85347 /* LetraLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF0718BFB73500D85347 /* LetraLViewController.m */; };
+		7CA6BF0B18BFB74500D85347 /* LetraMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF0A18BFB74500D85347 /* LetraMViewController.m */; };
+		7CA6BF0E18BFB76300D85347 /* LetraNViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF0D18BFB76300D85347 /* LetraNViewController.m */; };
+		7CA6BF1118BFB7BA00D85347 /* LetraOViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF1018BFB7BA00D85347 /* LetraOViewController.m */; };
+		7CA6BF1418BFB7C900D85347 /* LetraPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF1318BFB7C900D85347 /* LetraPViewController.m */; };
+		7CA6BF1618BFB89F00D85347 /* jynx.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF1518BFB89F00D85347 /* jynx.png */; };
+		7CA6BF1918BFB90700D85347 /* LetraQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF1818BFB90700D85347 /* LetraQViewController.m */; };
+		7CA6BF1C18BFB91700D85347 /* LetraRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF1B18BFB91700D85347 /* LetraRViewController.m */; };
+		7CA6BF1F18BFB96500D85347 /* LetraSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF1E18BFB96500D85347 /* LetraSViewController.m */; };
+		7CA6BF2218BFB9B000D85347 /* LetraTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF2118BFB9B000D85347 /* LetraTViewController.m */; };
+		7CA6BF2518BFB9F600D85347 /* LetraUViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF2418BFB9F600D85347 /* LetraUViewController.m */; };
+		7CA6BF2818BFBA0900D85347 /* LetraVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF2718BFBA0900D85347 /* LetraVViewController.m */; };
+		7CA6BF2B18BFBA5900D85347 /* LetraWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF2A18BFBA5900D85347 /* LetraWViewController.m */; };
+		7CA6BF2E18BFBA6700D85347 /* LetraXViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF2D18BFBA6700D85347 /* LetraXViewController.m */; };
+		7CA6BF3118BFBA7700D85347 /* LetraYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3018BFBA7700D85347 /* LetraYViewController.m */; };
+		7CA6BF3418BFBA8600D85347 /* LetraZViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3318BFBA8600D85347 /* LetraZViewController.m */; };
+		7CA6BF3618BFC45E00D85347 /* krookodile.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3518BFC45E00D85347 /* krookodile.png */; };
+		7CA6BF3818BFC4EC00D85347 /* lopunny.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3718BFC4EC00D85347 /* lopunny.png */; };
+		7CA6BF3A18BFC5CA00D85347 /* mudkip.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3918BFC5CA00D85347 /* mudkip.png */; };
+		7CA6BF3C18BFC6A400D85347 /* nuzleaf.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3B18BFC6A400D85347 /* nuzleaf.png */; };
+		7CA6BF3E18BFC89B00D85347 /* oshawott.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3D18BFC89B00D85347 /* oshawott.png */; };
+		7CA6BF4118BFCA9D00D85347 /* phanpy.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF3F18BFCA9D00D85347 /* phanpy.png */; };
+		7CA6BF4218BFCA9D00D85347 /* quagsire.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4018BFCA9D00D85347 /* quagsire.png */; };
+		7CA6BF4418BFCB3200D85347 /* ralts.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4318BFCB3200D85347 /* ralts.png */; };
+		7CA6BF4618BFCC5B00D85347 /* swampert.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4518BFCC5B00D85347 /* swampert.png */; };
+		7CA6BF4818BFCC9400D85347 /* trapinch.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4718BFCC9400D85347 /* trapinch.png */; };
+		7CA6BF4A18BFCD1300D85347 /* umbreon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4918BFCD1300D85347 /* umbreon.png */; };
+		7CA6BF5018BFCFB500D85347 /* vaporeon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4B18BFCFB500D85347 /* vaporeon.png */; };
+		7CA6BF5118BFCFB500D85347 /* wobbuffet.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4C18BFCFB500D85347 /* wobbuffet.png */; };
+		7CA6BF5218BFCFB500D85347 /* xatu.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4D18BFCFB500D85347 /* xatu.png */; };
+		7CA6BF5318BFCFB500D85347 /* yamask.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4E18BFCFB500D85347 /* yamask.png */; };
+		7CA6BF5418BFCFB500D85347 /* zweilous.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA6BF4F18BFCFB500D85347 /* zweilous.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,17 +104,80 @@
 		27156F7C18BA89430053A99C /* LetraAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraAViewController.m; sourceTree = "<group>"; };
 		27156F7E18BA8B210053A99C /* LetraBViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraBViewController.h; sourceTree = "<group>"; };
 		27156F7F18BA8B210053A99C /* LetraBViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraBViewController.m; sourceTree = "<group>"; };
-		7C9E2AC818BE7A5100B18B03 /* blastoise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blastoise.png; path = "Pokemons/A-G/blastoise.png"; sourceTree = "<group>"; };
-		7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clawitzer.png; path = "Pokemons/A-G/clawitzer.png"; sourceTree = "<group>"; };
+		7C9E2AC818BE7A5100B18B03 /* blastoise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blastoise.png; path = "../Navigation/Pokemons/A-G/blastoise.png"; sourceTree = "<group>"; };
+		7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clawitzer.png; path = "../Navigation/Pokemons/A-G/clawitzer.png"; sourceTree = "<group>"; };
 		7C9E2ACC18BE7B8B00B18B03 /* LetraDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraDViewController.h; sourceTree = "<group>"; };
 		7C9E2ACD18BE7B8B00B18B03 /* LetraDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraDViewController.m; sourceTree = "<group>"; };
-		7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Dragonite.png; path = "Pokemons/A-G/Dragonite.png"; sourceTree = "<group>"; };
+		7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Dragonite.png; path = "../Navigation/Pokemons/A-G/Dragonite.png"; sourceTree = "<group>"; };
 		7C9E2AD118BE803200B18B03 /* LetraEViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraEViewController.h; sourceTree = "<group>"; };
 		7C9E2AD218BE803200B18B03 /* LetraEViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraEViewController.m; sourceTree = "<group>"; };
-		7C9E2AD418BE80D000B18B03 /* espurr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = espurr.png; path = "Pokemons/A-G/espurr.png"; sourceTree = "<group>"; };
-		7CA1E93618BE594E00139D10 /* Ampharos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ampharos.png; path = "Pokemons/A-G/Ampharos.png"; sourceTree = "<group>"; };
+		7C9E2AD418BE80D000B18B03 /* espurr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = espurr.png; path = "../Navigation/Pokemons/A-G/espurr.png"; sourceTree = "<group>"; };
+		7CA1E93618BE594E00139D10 /* Ampharos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ampharos.png; path = "../Navigation/Pokemons/A-G/Ampharos.png"; sourceTree = "<group>"; };
 		7CA3A63218BD19A7001DD11F /* LetraCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraCViewController.h; sourceTree = "<group>"; };
 		7CA3A63318BD19A7001DD11F /* LetraCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraCViewController.m; sourceTree = "<group>"; };
+		7CA6BEEC18BFABB700D85347 /* LetraFViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraFViewController.h; sourceTree = "<group>"; };
+		7CA6BEED18BFABB700D85347 /* LetraFViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraFViewController.m; sourceTree = "<group>"; };
+		7CA6BEEF18BFADA800D85347 /* froakie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = froakie.jpg; path = "../Navigation/Pokemons/A-G/froakie.jpg"; sourceTree = "<group>"; };
+		7CA6BEF118BFAE1F00D85347 /* LetraGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraGViewController.h; sourceTree = "<group>"; };
+		7CA6BEF218BFAE1F00D85347 /* LetraGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraGViewController.m; sourceTree = "<group>"; };
+		7CA6BEF418BFAEF800D85347 /* LetraHViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraHViewController.h; sourceTree = "<group>"; };
+		7CA6BEF518BFAEF800D85347 /* LetraHViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraHViewController.m; sourceTree = "<group>"; };
+		7CA6BEF718BFAF2D00D85347 /* gardevoir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gardevoir.png; path = "../Navigation/Pokemons/A-G/gardevoir.png"; sourceTree = "<group>"; };
+		7CA6BEF918BFB01400D85347 /* LetraIViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraIViewController.h; sourceTree = "<group>"; };
+		7CA6BEFA18BFB01400D85347 /* LetraIViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraIViewController.m; sourceTree = "<group>"; };
+		7CA6BEFC18BFB37E00D85347 /* heracross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = heracross.png; path = "../Navigation/Pokemons/H-O/heracross.png"; sourceTree = "<group>"; };
+		7CA6BEFE18BFB59400D85347 /* illumise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = illumise.png; path = "../Navigation/Pokemons/H-O/illumise.png"; sourceTree = "<group>"; };
+		7CA6BF0018BFB5BB00D85347 /* LetraJViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraJViewController.h; sourceTree = "<group>"; };
+		7CA6BF0118BFB5BB00D85347 /* LetraJViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraJViewController.m; sourceTree = "<group>"; };
+		7CA6BF0318BFB64C00D85347 /* LetraKViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraKViewController.h; sourceTree = "<group>"; };
+		7CA6BF0418BFB64C00D85347 /* LetraKViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraKViewController.m; sourceTree = "<group>"; };
+		7CA6BF0618BFB73500D85347 /* LetraLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraLViewController.h; sourceTree = "<group>"; };
+		7CA6BF0718BFB73500D85347 /* LetraLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraLViewController.m; sourceTree = "<group>"; };
+		7CA6BF0918BFB74500D85347 /* LetraMViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraMViewController.h; sourceTree = "<group>"; };
+		7CA6BF0A18BFB74500D85347 /* LetraMViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraMViewController.m; sourceTree = "<group>"; };
+		7CA6BF0C18BFB76300D85347 /* LetraNViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraNViewController.h; sourceTree = "<group>"; };
+		7CA6BF0D18BFB76300D85347 /* LetraNViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraNViewController.m; sourceTree = "<group>"; };
+		7CA6BF0F18BFB7BA00D85347 /* LetraOViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraOViewController.h; sourceTree = "<group>"; };
+		7CA6BF1018BFB7BA00D85347 /* LetraOViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraOViewController.m; sourceTree = "<group>"; };
+		7CA6BF1218BFB7C900D85347 /* LetraPViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraPViewController.h; sourceTree = "<group>"; };
+		7CA6BF1318BFB7C900D85347 /* LetraPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraPViewController.m; sourceTree = "<group>"; };
+		7CA6BF1518BFB89F00D85347 /* jynx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = jynx.png; path = "../Navigation/Pokemons/H-O/jynx.png"; sourceTree = "<group>"; };
+		7CA6BF1718BFB90700D85347 /* LetraQViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraQViewController.h; sourceTree = "<group>"; };
+		7CA6BF1818BFB90700D85347 /* LetraQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraQViewController.m; sourceTree = "<group>"; };
+		7CA6BF1A18BFB91700D85347 /* LetraRViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraRViewController.h; sourceTree = "<group>"; };
+		7CA6BF1B18BFB91700D85347 /* LetraRViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraRViewController.m; sourceTree = "<group>"; };
+		7CA6BF1D18BFB96500D85347 /* LetraSViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraSViewController.h; sourceTree = "<group>"; };
+		7CA6BF1E18BFB96500D85347 /* LetraSViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraSViewController.m; sourceTree = "<group>"; };
+		7CA6BF2018BFB9B000D85347 /* LetraTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraTViewController.h; sourceTree = "<group>"; };
+		7CA6BF2118BFB9B000D85347 /* LetraTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraTViewController.m; sourceTree = "<group>"; };
+		7CA6BF2318BFB9F600D85347 /* LetraUViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraUViewController.h; sourceTree = "<group>"; };
+		7CA6BF2418BFB9F600D85347 /* LetraUViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraUViewController.m; sourceTree = "<group>"; };
+		7CA6BF2618BFBA0900D85347 /* LetraVViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraVViewController.h; sourceTree = "<group>"; };
+		7CA6BF2718BFBA0900D85347 /* LetraVViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraVViewController.m; sourceTree = "<group>"; };
+		7CA6BF2918BFBA5900D85347 /* LetraWViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraWViewController.h; sourceTree = "<group>"; };
+		7CA6BF2A18BFBA5900D85347 /* LetraWViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraWViewController.m; sourceTree = "<group>"; };
+		7CA6BF2C18BFBA6700D85347 /* LetraXViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraXViewController.h; sourceTree = "<group>"; };
+		7CA6BF2D18BFBA6700D85347 /* LetraXViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraXViewController.m; sourceTree = "<group>"; };
+		7CA6BF2F18BFBA7700D85347 /* LetraYViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraYViewController.h; sourceTree = "<group>"; };
+		7CA6BF3018BFBA7700D85347 /* LetraYViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraYViewController.m; sourceTree = "<group>"; };
+		7CA6BF3218BFBA8600D85347 /* LetraZViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraZViewController.h; sourceTree = "<group>"; };
+		7CA6BF3318BFBA8600D85347 /* LetraZViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraZViewController.m; sourceTree = "<group>"; };
+		7CA6BF3518BFC45E00D85347 /* krookodile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = krookodile.png; path = "../Navigation/Pokemons/H-O/krookodile.png"; sourceTree = "<group>"; };
+		7CA6BF3718BFC4EC00D85347 /* lopunny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lopunny.png; path = "../Navigation/Pokemons/H-O/lopunny.png"; sourceTree = "<group>"; };
+		7CA6BF3918BFC5CA00D85347 /* mudkip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mudkip.png; path = "../Navigation/Pokemons/H-O/mudkip.png"; sourceTree = "<group>"; };
+		7CA6BF3B18BFC6A400D85347 /* nuzleaf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nuzleaf.png; path = "../Navigation/Pokemons/H-O/nuzleaf.png"; sourceTree = "<group>"; };
+		7CA6BF3D18BFC89B00D85347 /* oshawott.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oshawott.png; path = "../Navigation/Pokemons/H-O/oshawott.png"; sourceTree = "<group>"; };
+		7CA6BF3F18BFCA9D00D85347 /* phanpy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = phanpy.png; path = "../Navigation/Pokemons/P-Z/phanpy.png"; sourceTree = "<group>"; };
+		7CA6BF4018BFCA9D00D85347 /* quagsire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = quagsire.png; path = "../Navigation/Pokemons/P-Z/quagsire.png"; sourceTree = "<group>"; };
+		7CA6BF4318BFCB3200D85347 /* ralts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ralts.png; path = "../Navigation/Pokemons/P-Z/ralts.png"; sourceTree = "<group>"; };
+		7CA6BF4518BFCC5B00D85347 /* swampert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = swampert.png; path = "../Navigation/Pokemons/P-Z/swampert.png"; sourceTree = "<group>"; };
+		7CA6BF4718BFCC9400D85347 /* trapinch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trapinch.png; path = "../Navigation/Pokemons/P-Z/trapinch.png"; sourceTree = "<group>"; };
+		7CA6BF4918BFCD1300D85347 /* umbreon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = umbreon.png; path = "../Navigation/Pokemons/P-Z/umbreon.png"; sourceTree = "<group>"; };
+		7CA6BF4B18BFCFB500D85347 /* vaporeon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vaporeon.png; path = "../Navigation/Pokemons/P-Z/vaporeon.png"; sourceTree = "<group>"; };
+		7CA6BF4C18BFCFB500D85347 /* wobbuffet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wobbuffet.png; path = "../Navigation/Pokemons/P-Z/wobbuffet.png"; sourceTree = "<group>"; };
+		7CA6BF4D18BFCFB500D85347 /* xatu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = xatu.png; path = "../Navigation/Pokemons/P-Z/xatu.png"; sourceTree = "<group>"; };
+		7CA6BF4E18BFCFB500D85347 /* yamask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yamask.png; path = "../Navigation/Pokemons/P-Z/yamask.png"; sourceTree = "<group>"; };
+		7CA6BF4F18BFCFB500D85347 /* zweilous.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = zweilous.png; path = "../Navigation/Pokemons/P-Z/zweilous.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,19 +243,56 @@
 				27156F5318B76AF50053A99C /* Supporting Files */,
 				27156F7B18BA89430053A99C /* LetraAViewController.h */,
 				27156F7C18BA89430053A99C /* LetraAViewController.m */,
-				7CA1E93618BE594E00139D10 /* Ampharos.png */,
 				27156F7E18BA8B210053A99C /* LetraBViewController.h */,
 				27156F7F18BA8B210053A99C /* LetraBViewController.m */,
-				7C9E2AC818BE7A5100B18B03 /* blastoise.png */,
 				7CA3A63218BD19A7001DD11F /* LetraCViewController.h */,
 				7CA3A63318BD19A7001DD11F /* LetraCViewController.m */,
 				7C9E2ACC18BE7B8B00B18B03 /* LetraDViewController.h */,
 				7C9E2ACD18BE7B8B00B18B03 /* LetraDViewController.m */,
 				7C9E2AD118BE803200B18B03 /* LetraEViewController.h */,
 				7C9E2AD218BE803200B18B03 /* LetraEViewController.m */,
-				7C9E2AD418BE80D000B18B03 /* espurr.png */,
-				7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */,
-				7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */,
+				7CA6BEEC18BFABB700D85347 /* LetraFViewController.h */,
+				7CA6BEED18BFABB700D85347 /* LetraFViewController.m */,
+				7CA6BEF218BFAE1F00D85347 /* LetraGViewController.m */,
+				7CA6BEF118BFAE1F00D85347 /* LetraGViewController.h */,
+				7CA6BEF418BFAEF800D85347 /* LetraHViewController.h */,
+				7CA6BEF518BFAEF800D85347 /* LetraHViewController.m */,
+				7CA6BEF918BFB01400D85347 /* LetraIViewController.h */,
+				7CA6BEFA18BFB01400D85347 /* LetraIViewController.m */,
+				7CA6BF0018BFB5BB00D85347 /* LetraJViewController.h */,
+				7CA6BF0118BFB5BB00D85347 /* LetraJViewController.m */,
+				7CA6BF0318BFB64C00D85347 /* LetraKViewController.h */,
+				7CA6BF0418BFB64C00D85347 /* LetraKViewController.m */,
+				7CA6BF0618BFB73500D85347 /* LetraLViewController.h */,
+				7CA6BF0718BFB73500D85347 /* LetraLViewController.m */,
+				7CA6BF0918BFB74500D85347 /* LetraMViewController.h */,
+				7CA6BF0A18BFB74500D85347 /* LetraMViewController.m */,
+				7CA6BF0C18BFB76300D85347 /* LetraNViewController.h */,
+				7CA6BF0D18BFB76300D85347 /* LetraNViewController.m */,
+				7CA6BF0F18BFB7BA00D85347 /* LetraOViewController.h */,
+				7CA6BF1018BFB7BA00D85347 /* LetraOViewController.m */,
+				7CA6BF1218BFB7C900D85347 /* LetraPViewController.h */,
+				7CA6BF1318BFB7C900D85347 /* LetraPViewController.m */,
+				7CA6BF1718BFB90700D85347 /* LetraQViewController.h */,
+				7CA6BF1818BFB90700D85347 /* LetraQViewController.m */,
+				7CA6BF1A18BFB91700D85347 /* LetraRViewController.h */,
+				7CA6BF1B18BFB91700D85347 /* LetraRViewController.m */,
+				7CA6BF1D18BFB96500D85347 /* LetraSViewController.h */,
+				7CA6BF1E18BFB96500D85347 /* LetraSViewController.m */,
+				7CA6BF2018BFB9B000D85347 /* LetraTViewController.h */,
+				7CA6BF2118BFB9B000D85347 /* LetraTViewController.m */,
+				7CA6BF2318BFB9F600D85347 /* LetraUViewController.h */,
+				7CA6BF2418BFB9F600D85347 /* LetraUViewController.m */,
+				7CA6BF2618BFBA0900D85347 /* LetraVViewController.h */,
+				7CA6BF2718BFBA0900D85347 /* LetraVViewController.m */,
+				7CA6BF2918BFBA5900D85347 /* LetraWViewController.h */,
+				7CA6BF2A18BFBA5900D85347 /* LetraWViewController.m */,
+				7CA6BF2C18BFBA6700D85347 /* LetraXViewController.h */,
+				7CA6BF2D18BFBA6700D85347 /* LetraXViewController.m */,
+				7CA6BF2F18BFBA7700D85347 /* LetraYViewController.h */,
+				7CA6BF3018BFBA7700D85347 /* LetraYViewController.m */,
+				7CA6BF3218BFBA8600D85347 /* LetraZViewController.h */,
+				7CA6BF3318BFBA8600D85347 /* LetraZViewController.m */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -178,6 +320,32 @@
 		27156F6C18B76AF50053A99C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7CA6BF4E18BFCFB500D85347 /* yamask.png */,
+				7CA6BF4C18BFCFB500D85347 /* wobbuffet.png */,
+				7CA6BF4F18BFCFB500D85347 /* zweilous.png */,
+				7CA6BF4918BFCD1300D85347 /* umbreon.png */,
+				7CA6BF4B18BFCFB500D85347 /* vaporeon.png */,
+				7CA6BF4D18BFCFB500D85347 /* xatu.png */,
+				7CA6BF4718BFCC9400D85347 /* trapinch.png */,
+				7CA6BF4518BFCC5B00D85347 /* swampert.png */,
+				7CA6BF4318BFCB3200D85347 /* ralts.png */,
+				7CA6BF4018BFCA9D00D85347 /* quagsire.png */,
+				7CA6BF3F18BFCA9D00D85347 /* phanpy.png */,
+				7CA6BF3D18BFC89B00D85347 /* oshawott.png */,
+				7CA6BF3B18BFC6A400D85347 /* nuzleaf.png */,
+				7CA6BF3918BFC5CA00D85347 /* mudkip.png */,
+				7CA6BF3518BFC45E00D85347 /* krookodile.png */,
+				7CA6BF3718BFC4EC00D85347 /* lopunny.png */,
+				7CA6BF1518BFB89F00D85347 /* jynx.png */,
+				7CA6BEFE18BFB59400D85347 /* illumise.png */,
+				7CA6BEFC18BFB37E00D85347 /* heracross.png */,
+				7CA6BEF718BFAF2D00D85347 /* gardevoir.png */,
+				7CA1E93618BE594E00139D10 /* Ampharos.png */,
+				7C9E2AC818BE7A5100B18B03 /* blastoise.png */,
+				7C9E2ACA18BE7B1600B18B03 /* clawitzer.png */,
+				7C9E2ACF18BE7BE600B18B03 /* Dragonite.png */,
+				7C9E2AD418BE80D000B18B03 /* espurr.png */,
+				7CA6BEEF18BFADA800D85347 /* froakie.jpg */,
 				27156F6D18B76AF50053A99C /* NavigationTests-Info.plist */,
 				27156F6E18B76AF50053A99C /* InfoPlist.strings */,
 			);
@@ -260,13 +428,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CA6BF3618BFC45E00D85347 /* krookodile.png in Resources */,
+				7CA6BF5018BFCFB500D85347 /* vaporeon.png in Resources */,
 				7C9E2AD518BE80D000B18B03 /* espurr.png in Resources */,
+				7CA6BF5218BFCFB500D85347 /* xatu.png in Resources */,
 				7CA1E93718BE594E00139D10 /* Ampharos.png in Resources */,
+				7CA6BF3C18BFC6A400D85347 /* nuzleaf.png in Resources */,
 				27156F5718B76AF50053A99C /* InfoPlist.strings in Resources */,
+				7CA6BF3E18BFC89B00D85347 /* oshawott.png in Resources */,
+				7CA6BF5318BFCFB500D85347 /* yamask.png in Resources */,
+				7CA6BF5418BFCFB500D85347 /* zweilous.png in Resources */,
+				7CA6BF5118BFCFB500D85347 /* wobbuffet.png in Resources */,
+				7CA6BEF018BFADA800D85347 /* froakie.jpg in Resources */,
+				7CA6BF4A18BFCD1300D85347 /* umbreon.png in Resources */,
+				7CA6BF3818BFC4EC00D85347 /* lopunny.png in Resources */,
+				7CA6BEF818BFAF2D00D85347 /* gardevoir.png in Resources */,
 				7C9E2ACB18BE7B1600B18B03 /* clawitzer.png in Resources */,
+				7CA6BEFF18BFB59400D85347 /* illumise.png in Resources */,
+				7CA6BF4118BFCA9D00D85347 /* phanpy.png in Resources */,
+				7CA6BF4818BFCC9400D85347 /* trapinch.png in Resources */,
 				7C9E2AD018BE7BE600B18B03 /* Dragonite.png in Resources */,
+				7CA6BF1618BFB89F00D85347 /* jynx.png in Resources */,
 				7C9E2AC918BE7A5100B18B03 /* blastoise.png in Resources */,
+				7CA6BEFD18BFB37E00D85347 /* heracross.png in Resources */,
 				27156F5F18B76AF50053A99C /* Images.xcassets in Resources */,
+				7CA6BF4218BFCA9D00D85347 /* quagsire.png in Resources */,
+				7CA6BF4418BFCB3200D85347 /* ralts.png in Resources */,
+				7CA6BF4618BFCC5B00D85347 /* swampert.png in Resources */,
+				7CA6BF3A18BFC5CA00D85347 /* mudkip.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,11 +475,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				27156F5D18B76AF50053A99C /* MackenzieAppDelegate.m in Sources */,
+				7CA6BF2518BFB9F600D85347 /* LetraUViewController.m in Sources */,
+				7CA6BF3418BFBA8600D85347 /* LetraZViewController.m in Sources */,
+				7CA6BF2E18BFBA6700D85347 /* LetraXViewController.m in Sources */,
 				27156F7D18BA89430053A99C /* LetraAViewController.m in Sources */,
+				7CA6BF3118BFBA7700D85347 /* LetraYViewController.m in Sources */,
+				7CA6BF1918BFB90700D85347 /* LetraQViewController.m in Sources */,
+				7CA6BF2B18BFBA5900D85347 /* LetraWViewController.m in Sources */,
+				7CA6BF0818BFB73500D85347 /* LetraLViewController.m in Sources */,
+				7CA6BF0518BFB64C00D85347 /* LetraKViewController.m in Sources */,
+				7CA6BF1418BFB7C900D85347 /* LetraPViewController.m in Sources */,
+				7CA6BF0B18BFB74500D85347 /* LetraMViewController.m in Sources */,
 				7C9E2AD318BE803200B18B03 /* LetraEViewController.m in Sources */,
+				7CA6BF0E18BFB76300D85347 /* LetraNViewController.m in Sources */,
 				27156F8018BA8B210053A99C /* LetraBViewController.m in Sources */,
+				7CA6BEF618BFAEF800D85347 /* LetraHViewController.m in Sources */,
+				7CA6BEF318BFAE1F00D85347 /* LetraGViewController.m in Sources */,
 				27156F5918B76AF50053A99C /* main.m in Sources */,
+				7CA6BEFB18BFB01400D85347 /* LetraIViewController.m in Sources */,
+				7CA6BF1C18BFB91700D85347 /* LetraRViewController.m in Sources */,
 				7C9E2ACE18BE7B8B00B18B03 /* LetraDViewController.m in Sources */,
+				7CA6BF1F18BFB96500D85347 /* LetraSViewController.m in Sources */,
+				7CA6BF1118BFB7BA00D85347 /* LetraOViewController.m in Sources */,
+				7CA6BF2218BFB9B000D85347 /* LetraTViewController.m in Sources */,
+				7CA6BEEE18BFABB700D85347 /* LetraFViewController.m in Sources */,
+				7CA6BF0218BFB5BB00D85347 /* LetraJViewController.m in Sources */,
+				7CA6BF2818BFBA0900D85347 /* LetraVViewController.m in Sources */,
 				7CA3A63418BD19A7001DD11F /* LetraCViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
